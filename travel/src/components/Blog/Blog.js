@@ -1,13 +1,13 @@
 import React from 'react'
 
 
-function Login() {
+function Blog() {
 
 
     return (
         <>
-        <h1>Login</h1>
+        <h1>Blog</h1>
         </>
     )
 }
-export default Login
+export default Blog
